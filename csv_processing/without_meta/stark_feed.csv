@@ -1,0 +1,4 @@
+id,product_name,category,price,discount,img_url,url
+299,A doll,toys,300000,30000,https://image.url/doll.jpg,https://store.mine/a-doll
+390,A phone,smartphone,2500000,0,https://image.url/phone.jpg,https://store.mine/a-phone
+499,A ball,football,450000,0,https://image.url/ball.jpg,https://store.mine/a-ball
